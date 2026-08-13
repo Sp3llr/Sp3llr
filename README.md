@@ -1,15 +1,11 @@
 <div align="center">
-  <a href="https://github.com/Sp3llr/JunimoCheck"><img src="https://raw.githubusercontent.com/Sp3llr/JunimoCheck/main/public/junimocheck-logo.png" width="170" alt="Logo da JunimoCheck"></a>
+  <img width="100%" alt="Faixa verde ondulada" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=0:14532d,50:2f855a,100:84cc16">
 
 # Olá! Eu sou Manoel Ricardo 👋
 
-### Estudante de Desenvolvimento de Sistemas e criador da JunimoCheck
+### Estudante de Desenvolvimento de Sistemas
 
 Construindo projetos para aprender, resolver problemas reais e evoluir como desenvolvedor de software.
-
-<p>
-  <a href="https://checklist-stardew-valley.manoelricardo847.workers.dev"><img height="42" alt="Conhecer a JunimoCheck" src="https://img.shields.io/badge/CONHECER_A_JUNIMOCHECK-3f7c39?style=for-the-badge&logo=cloudflare&logoColor=white"></a>
-</p>
 
 <p>
   <img alt="Pernambuco, Brasil" src="https://img.shields.io/badge/Pernambuco-Brasil-2f855a?style=flat-square">
@@ -45,26 +41,24 @@ Construindo projetos para aprender, resolver problemas reais e evoluir como dese
         <a href="https://github.com/Sp3llr/JunimoCheck"><img alt="Ver código da JunimoCheck" src="https://img.shields.io/badge/VER_O_CÓDIGO-26352c?style=for-the-badge&logo=github&logoColor=white"></a>
         <a href="https://checklist-stardew-valley.manoelricardo847.workers.dev"><img alt="Abrir a JunimoCheck" src="https://img.shields.io/badge/ABRIR_O_SITE-4f8a3d?style=for-the-badge&logo=cloudflare&logoColor=ffe27a"></a>
       </p>
+      <h4>Tecnologias utilizadas</h4>
+      <p>
+        <img alt="HTML5" src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white">
+        <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white">
+        <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=111111">
+        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white">
+        <img alt="React" src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb">
+        <img alt="Next.js" src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white">
+        <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853d?style=for-the-badge&logo=nodedotjs&logoColor=white">
+        <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169e1?style=for-the-badge&logo=postgresql&logoColor=white">
+        <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ecf8e?style=for-the-badge&logo=supabase&logoColor=white">
+        <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-f38020?style=for-the-badge&logo=cloudflare&logoColor=white">
+        <img alt="Git" src="https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white">
+        <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+      </p>
     </td>
   </tr>
 </table>
-
-### Tecnologias utilizadas na JunimoCheck
-
-<p align="center">
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white">
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=111111">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img alt="React" src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb">
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853d?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169e1?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ecf8e?style=for-the-badge&logo=supabase&logoColor=white">
-  <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-f38020?style=for-the-badge&logo=cloudflare&logoColor=white">
-  <img alt="Git" src="https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white">
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</p>
 
 ## Atividade no GitHub
 
