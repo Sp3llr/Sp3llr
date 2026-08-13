@@ -1,7 +1,5 @@
 <div align="center">
-  <a href="https://github.com/Sp3llr/JunimoCheck">
-    <img src="https://raw.githubusercontent.com/Sp3llr/JunimoCheck/main/public/junimocheck-logo.png" width="170" alt="Logo da JunimoCheck">
-  </a>
+  <a href="https://github.com/Sp3llr/JunimoCheck"><img src="https://raw.githubusercontent.com/Sp3llr/JunimoCheck/main/public/junimocheck-logo.png" width="170" alt="Logo da JunimoCheck"></a>
 
 # Olá! Eu sou Manoel Ricardo 👋
 
@@ -10,9 +8,7 @@
 Construindo projetos para aprender, resolver problemas reais e evoluir como desenvolvedor de software.
 
 <p>
-  <a href="https://checklist-stardew-valley.manoelricardo847.workers.dev">
-    <img height="42" alt="Conhecer a JunimoCheck" src="https://img.shields.io/badge/CONHECER_A_JUNIMOCHECK-3f7c39?style=for-the-badge&logo=cloudflare&logoColor=white">
-  </a>
+  <a href="https://checklist-stardew-valley.manoelricardo847.workers.dev"><img height="42" alt="Conhecer a JunimoCheck" src="https://img.shields.io/badge/CONHECER_A_JUNIMOCHECK-3f7c39?style=for-the-badge&logo=cloudflare&logoColor=white"></a>
 </p>
 
 <p>
@@ -59,12 +55,8 @@ Construindo projetos para aprender, resolver problemas reais e evoluir como dese
       <h3>JunimoCheck</h3>
       <p>Checklist colaborativa para organizar o Centro Comunitário de Stardew Valley com amigos, acompanhar o progresso em tempo real e encontrar os itens de cada estação.</p>
       <p>
-        <a href="https://github.com/Sp3llr/JunimoCheck">
-          <img alt="Ver código da JunimoCheck" src="https://img.shields.io/badge/VER_O_CÓDIGO-26352c?style=for-the-badge&logo=github&logoColor=white">
-        </a>
-        <a href="https://checklist-stardew-valley.manoelricardo847.workers.dev">
-          <img alt="Abrir a JunimoCheck" src="https://img.shields.io/badge/ABRIR_O_SITE-4f8a3d?style=for-the-badge&logo=cloudflare&logoColor=ffe27a">
-        </a>
+        <a href="https://github.com/Sp3llr/JunimoCheck"><img alt="Ver código da JunimoCheck" src="https://img.shields.io/badge/VER_O_CÓDIGO-26352c?style=for-the-badge&logo=github&logoColor=white"></a>
+        <a href="https://checklist-stardew-valley.manoelricardo847.workers.dev"><img alt="Abrir a JunimoCheck" src="https://img.shields.io/badge/ABRIR_O_SITE-4f8a3d?style=for-the-badge&logo=cloudflare&logoColor=ffe27a"></a>
       </p>
     </td>
   </tr>
@@ -73,26 +65,16 @@ Construindo projetos para aprender, resolver problemas reais e evoluir como dese
 ## Atividade no GitHub
 
 <div align="center">
-  <a href="https://github.com/Sp3llr?tab=followers">
-    <img alt="Seguidores no GitHub" src="https://img.shields.io/github/followers/Sp3llr?style=for-the-badge&logo=github&label=SEGUIDORES&labelColor=26352c&color=4f8a3d">
-  </a>
-  <a href="https://github.com/Sp3llr/JunimoCheck/stargazers">
-    <img alt="Estrelas da JunimoCheck" src="https://img.shields.io/github/stars/Sp3llr/JunimoCheck?style=for-the-badge&logo=github&label=ESTRELAS&labelColor=79502a&color=d9a441">
-  </a>
-  <a href="https://github.com/Sp3llr?tab=repositories">
-    <img alt="Ver os projetos de Manoel" src="https://img.shields.io/badge/MEUS_PROJETOS-VER_REPOSITÓRIOS-3178c6?style=for-the-badge&logo=github&logoColor=white">
-  </a>
+  <a href="https://github.com/Sp3llr?tab=followers"><img alt="Seguidores no GitHub" src="https://img.shields.io/github/followers/Sp3llr?style=for-the-badge&logo=github&label=SEGUIDORES&labelColor=26352c&color=4f8a3d"></a>
+  <a href="https://github.com/Sp3llr/JunimoCheck/stargazers"><img alt="Estrelas da JunimoCheck" src="https://img.shields.io/github/stars/Sp3llr/JunimoCheck?style=for-the-badge&logo=github&label=ESTRELAS&labelColor=79502a&color=d9a441"></a>
+  <a href="https://github.com/Sp3llr?tab=repositories"><img alt="Ver os projetos de Manoel" src="https://img.shields.io/badge/MEUS_PROJETOS-VER_REPOSITÓRIOS-3178c6?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 
 ## Vamos nos conectar
 
 <div align="center">
-  <a href="https://github.com/Sp3llr">
-    <img alt="Perfil no GitHub" src="https://img.shields.io/badge/GitHub-Sp3llr-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://checklist-stardew-valley.manoelricardo847.workers.dev">
-    <img alt="Site da JunimoCheck" src="https://img.shields.io/badge/Projeto-JunimoCheck-3f7c39?style=for-the-badge&logo=cloudflare&logoColor=white">
-  </a>
+  <a href="https://github.com/Sp3llr"><img alt="Perfil no GitHub" src="https://img.shields.io/badge/GitHub-Sp3llr-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://checklist-stardew-valley.manoelricardo847.workers.dev"><img alt="Site da JunimoCheck" src="https://img.shields.io/badge/Projeto-JunimoCheck-3f7c39?style=for-the-badge&logo=cloudflare&logoColor=white"></a>
 </div>
 
 ---
