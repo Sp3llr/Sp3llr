@@ -1,6 +1,4 @@
 <div align="center">
-  <img width="100%" alt="Faixa verde ondulada" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=0:14532d,50:2f855a,100:84cc16">
-
 # Olá! Eu sou Manoel Ricardo 👋
 
 ### Estudante de Desenvolvimento de Sistemas
@@ -80,3 +78,5 @@ Construindo projetos para aprender, resolver problemas reais e evoluir como dese
 <div align="center">
   <sub>Perfil em construção, assim como todo bom desenvolvedor. 🌱</sub>
 </div>
+
+<img width="100%" alt="Faixa verde ondulada" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:14532d,50:2f855a,100:84cc16">
